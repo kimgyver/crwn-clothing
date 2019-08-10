@@ -70,5 +70,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### STRUCTURE For Undestanding
 ** Hompage => Directory->MenuItem
+
 ** OverviewPage => ShopPage->Spinner->CollectionOverview->CollectionPrview->CollectionItem
+
 ** [Hats] => ShopPage->Spinner->CollectionPage->collectionitem
