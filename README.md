@@ -1,3 +1,5 @@
+## Demo Website URL: https://crwn-jason-live.herokuapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,10 +69,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-
 ### STRUCTURE For Undestanding
-** Hompage => Directory->MenuItem
 
-** OverviewPage => ShopPage->Spinner->CollectionOverview->CollectionPrview->CollectionItem
+\*\* Hompage => Directory->MenuItem
 
-** [Hats] => ShopPage->Spinner->CollectionPage->collectionitem
+\*\* OverviewPage => ShopPage->Spinner->CollectionOverview->CollectionPrview->CollectionItem
+
+\*\* [Hats] => ShopPage->Spinner->CollectionPage->collectionitem
